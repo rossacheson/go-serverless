@@ -1,13 +1,12 @@
-//export const API_URL = 'https://cagzcajq30.execute-api.us-east-1.amazonaws.com/dev/todos'
-//export const API_URL = 'https://nnvr7ppuc1.execute-api.us-east-1.amazonaws.com/dev/todos'
-//export const API_URL = 'https://g7l4q26b3l.execute-api.us-east-1.amazonaws.com/todos'
-//export const API_URL = 'https://n3poafpyb5.execute-api.us-east-1.amazonaws.com/todos'
-//export const API_URL = 'http://localhost:7071/api/todos'
-//export const API_URL = 'https://todo-function-app.azurewebsites.net/api/todos'
-export const API_URL = 'https://todo-api-management.azure-api.net/todo-function-app/todos'
+// export const API_URL = 'http://localhost:7071/api/todos'
+// export const API_URL = 'https://todo-function-app.azurewebsites.net/api/todos'
 
+// export const API_URL = 'https://i5kmidawqk.execute-api.us-east-1.amazonaws.com/dev/todos'; // REST
+// export const API_URL = 'https://thrlrq8kg4.execute-api.us-east-1.amazonaws.com/dev/todos'; // HTTP
+// export const API_URL = 'https://t3qfn134j3.execute-api.us-east-1.amazonaws.com/todos'; // SAM HTTP
+export const API_URL = 'https://upbqmxqpfg.execute-api.us-east-1.amazonaws.com/todos'; // Serverless Framework HTTP
 
 export const POOL_DATA = {
-    UserPoolId: 'us-east-1_GMdZm52Wh',//'us-east-1_7dF78dyvw',
-    ClientId: '7h6ivmhtdrfduhu4jjvfjqtduo'//'7pn13e127fqnptfp0glb3bke8e'
+    UserPoolId: 'us-east-1_KrPZsAH5u', // 'us-east-1_7dF78dyvw',
+    ClientId: '53ljsfdmi593f7gj07kp2f0hk6' // '7pn13e127fqnptfp0glb3bke8e'
 };
